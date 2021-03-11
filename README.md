@@ -55,7 +55,7 @@ repo so that you can easily fund them again next time.
     $ cd reveal.js
     $ git submodule update --init --recursive
     ```
-  - copy `package.json`, `gruntfile.js`, `gulpfile.js` from  the `reveal.js` folder to the talk directory
+  - copy `package.json`, `gulpfile.js` from  the `reveal.js` folder to the talk directory
   - Update/install npm modules to make sure it works with this version:
     ```
     $ npm install
